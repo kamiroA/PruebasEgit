@@ -11,7 +11,10 @@ public class PruebasEgit {
 		
 		System.out.println("Primer commit rama 1");
 		
-		System.out.println("Tercer commit master");
+
+
+		System.out.println("Segundo commit rama 1");
+
 
 	}
 
